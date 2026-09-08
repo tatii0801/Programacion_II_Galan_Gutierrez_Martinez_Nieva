@@ -1,4 +1,4 @@
-package grupal.TP_Herencia_Polimorfismo.Parte1Puerto;
+package Programacion_II_Galan_Gutierrez_Martinez_Nieva.TP_Herencia_Polimorfismo.Parte1Puerto;
 
 //aqui aparece la herencia
 public class Velero extends Barco {
