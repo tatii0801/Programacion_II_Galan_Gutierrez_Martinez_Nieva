@@ -1,4 +1,4 @@
-package Programacion_II_Galan_Gutierrez_Martinez_Nieva.TP_Herencia_Polimorfismo.Parte2Batalla;
+package TP_Herencia_Polimorfismo.Parte2Batalla;
 
 // Acá hacemos exactamente lo que pide la consigna:
 // Realizar tres combates entre los Personajes “Guerrero” y “Mago”.

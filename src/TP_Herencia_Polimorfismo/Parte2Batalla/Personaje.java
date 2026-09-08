@@ -1,4 +1,4 @@
-package Programacion_II_Galan_Gutierrez_Martinez_Nieva.TP_Herencia_Polimorfismo.Parte2Batalla;
+package TP_Herencia_Polimorfismo.Parte2Batalla;
 
 // Clase abstracta que representa a un personaje de la batalla
 public abstract class Personaje {
